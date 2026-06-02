@@ -27,4 +27,4 @@ Land a better job with higher salary by mastering:
 - Weekly LinkedIn update — building in public
 
 ## 👤 Author
-**Alok Ranjan** | 3 years C++ MFC | Targeting: Modern C++ / Qt / C++ AI-ML roles
+**Sanam Sah** | 3 years C++ MFC | Targeting: Modern C++ / Qt / C++ AI-ML roles
