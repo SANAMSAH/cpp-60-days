@@ -1,0 +1,10 @@
+^D:\CPP-60-DAYS\DAY01\CMAKEFILES\43CCC99B424039560D7306EB98276846\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/CPP-60-days -BD:/CPP-60-days/Day01 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CPP-60-days/Day01/cpp_60_days.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

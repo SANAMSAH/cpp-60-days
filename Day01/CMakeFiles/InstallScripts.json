@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/CPP-60-days/Day01/cmake_install.cmake",
+		"D:/CPP-60-days/Day01/day01/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

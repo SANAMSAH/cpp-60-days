@@ -1,0 +1,3 @@
+D:/CPP-60-days/Day01/CMakeFiles/ALL_BUILD.dir
+D:/CPP-60-days/Day01/CMakeFiles/ZERO_CHECK.dir
+D:/CPP-60-days/Day01/day01/CMakeFiles/day01.dir
