@@ -178,6 +178,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{F5F144AC-347E-37C3-A5EB-F85FC5675AA6}</Project>
       <Name>day01</Name>
     </ProjectReference>
+    <ProjectReference Include="D:\CPP-60-days\Day01\day02\day02.vcxproj">
+      <Project>{4058C958-73FD-3D1D-AD77-9307547CF9B3}</Project>
+      <Name>day02</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

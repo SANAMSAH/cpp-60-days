@@ -10,6 +10,7 @@
 	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="c52e9ca2-948d-3674-ba8a-ed802d5718bd" DefaultStartup="true">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 		<BuildDependency Project="day01/day01.vcxproj"/>
+		<BuildDependency Project="day02/day02.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
 		<Build Solution="Release|*" Project="false"/>
 		<Build Solution="MinSizeRel|*" Project="false"/>
@@ -17,6 +18,9 @@
 	</Project>
 	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="b5665877-287d-35b7-88fe-e28283901510"/>
 	<Project Path="day01/day01.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="f5f144ac-347e-37c3-a5eb-f85fc5675aa6">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="day02/day02.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="4058c958-73fd-3d1d-ad77-9307547cf9b3">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 </Solution>
