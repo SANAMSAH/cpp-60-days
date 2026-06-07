@@ -3,7 +3,8 @@
 	[
 		"D:/CPP-60-days/Day01/cmake_install.cmake",
 		"D:/CPP-60-days/Day01/day01/cmake_install.cmake",
-		"D:/CPP-60-days/Day01/day02/cmake_install.cmake"
+		"D:/CPP-60-days/Day01/day02/cmake_install.cmake",
+		"D:/CPP-60-days/Day01/day03/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
