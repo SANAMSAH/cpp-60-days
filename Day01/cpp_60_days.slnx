@@ -13,6 +13,7 @@
 		<BuildDependency Project="day02/day02.vcxproj"/>
 		<BuildDependency Project="day03/day03.vcxproj"/>
 		<BuildDependency Project="day04/day04.vcxproj"/>
+		<BuildDependency Project="Day05/day05.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
 		<Build Solution="Release|*" Project="false"/>
 		<Build Solution="MinSizeRel|*" Project="false"/>
@@ -29,6 +30,9 @@
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 	<Project Path="day04/day04.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="6b1bea30-6b9d-36eb-9a00-242e6991faa9">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="Day05/day05.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="a0dd8abc-fa6e-31d9-be70-171b89fd6534">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 </Solution>
